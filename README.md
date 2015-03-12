@@ -1,6 +1,8 @@
 ucb-codereview
 ==============
 
+THIS IS DEPRECATED. CS61A at Berkeley now uses [okpy](github.com/Cal-CS-61A-Staff/ok).
+
 This is the code review system we use for the CS 61A class at UC Berkeley. This is a modified version of the [Rietveld](http://code.google.com/p/rietveld/) code review system.
 
 Folders:
@@ -9,3 +11,5 @@ Folders:
 - upload: Scripts which run on our instructional servers to upload student submissions to the GAE app.
 
 If you have any questions, email me at stephenmartinis@gmail.com
+
+THIS IS DEPRECATED. CS61A at Berkeley now uses [okpy](github.com/Cal-CS-61A-Staff/ok).
